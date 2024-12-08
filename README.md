@@ -39,3 +39,8 @@ Github 地址：https://github.com/codedrinker/community
 - 推广
 - 完善网站的各项功能，上线四版
 
+## 建议：使用 Microsoft To Do 软件
+- 可以当做日常的规划To Do 软件来用
+- 主要是可以实时共享To Do 任务
+- 并且支持手机端和电脑端实时同步任务
+- 我们新建一个列表，被邀请进入后就可以新建或修改任务，把任务规划到其他人的To Do 列表中

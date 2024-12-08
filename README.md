@@ -13,7 +13,7 @@
 
 是用 SpringBoot + Vue + MySQL 开发的开源社区系统。
 
-Github 地址：https://github.com/codedrinker/community
+GitHub 地址：https://github.com/codedrinker/community
 
 官网地址：http://www.mawen.co/?sort=hot
 

@@ -4,6 +4,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Clight-Site",
   description: "萃光小站是一个西大名下（）的论坛类网站，由学生开发维护，暂定为学生提供交流及其资源管理等服务。",
+  base: "/doc/page/",
+  outDir: "page",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
